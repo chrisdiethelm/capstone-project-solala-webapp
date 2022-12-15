@@ -1,4 +1,4 @@
 pandas
 tensorflow
 seaborn
-matplotlib.pyplot
+matplotlib
