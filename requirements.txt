@@ -2,3 +2,4 @@ pandas
 tensorflow
 seaborn
 matplotlib
+sklearn
