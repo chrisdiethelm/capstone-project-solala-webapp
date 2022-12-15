@@ -4,6 +4,7 @@ import tensorflow as tf
 import shared_functions as sf
 import seaborn as sns
 import matplotlib.pyplot as plt
+import sklearn
 import pickle
 
 #### Defining some general properties of the app
