@@ -1,5 +1,4 @@
 pandas
 tensorflow
-shared_functions
 seaborn
 matplotlib.pyplot
