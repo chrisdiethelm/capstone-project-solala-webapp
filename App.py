@@ -5,6 +5,7 @@ import shared_functions as sf
 import seaborn as sns
 import matplotlib.pyplot as plt
 import sklearn
+import numpy
 import pickle
 
 #### Defining some general properties of the app
